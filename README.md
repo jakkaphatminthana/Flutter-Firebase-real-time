@@ -1,4 +1,4 @@
-# flutter_shopping_list
+# flutter_firebase_real_time
 
 A new Flutter project.
 
