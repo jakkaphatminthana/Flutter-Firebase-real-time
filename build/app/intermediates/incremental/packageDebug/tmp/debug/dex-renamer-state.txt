@@ -1,0 +1,4 @@
+#Fri May 26 11:36:43 ICT 2023
+base.0=F\:\\Coruse_Learning_Online\\Flutter Udamy\\11_Input Form (Shop App)\\flutter_shopping_list\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
